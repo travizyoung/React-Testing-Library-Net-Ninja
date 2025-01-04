@@ -1,3 +1,5 @@
 .todo {
-    margin-top: -22.5vh;
+  margin-top: -22.5vh;
+  margin-inline: auto;
+  max-width: 800px;
 }
